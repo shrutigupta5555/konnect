@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "992144215447",
+    "project_id": "konnect-9a92c",
+    "storage_bucket": "konnect-9a92c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992144215447:android:39d0e5ecebd153e16a08d2",
+        "android_client_info": {
+          "package_name": "com.dbiti.konnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992144215447-tp23hajbj0ud4g4v4o150dtu65u66vnj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dbiti.konnect",
+            "certificate_hash": "a674089f5f9910e2a4c23be82c178d58c320f624"
+          }
+        },
+        {
+          "client_id": "992144215447-qjscodlbola67je4c7s3rl3kgf9aoila.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-jCvylKUUFJTXdebA_1yw9ZDGIN2Lim8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992144215447-qjscodlbola67je4c7s3rl3kgf9aoila.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
